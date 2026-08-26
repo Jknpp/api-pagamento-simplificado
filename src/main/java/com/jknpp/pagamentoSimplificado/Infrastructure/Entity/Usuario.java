@@ -1,4 +1,4 @@
-package com.jknpp.pagamentoSimplificado.Entity;
+package com.jknpp.pagamentoSimplificado.Infrastructure.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
